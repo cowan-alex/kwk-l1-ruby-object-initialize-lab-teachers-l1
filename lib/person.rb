@@ -1,6 +1,6 @@
 # person.rb
 class Person 
-  def initialize(name)
+  def initialize(persons_name)
     @name = persons_name
   end
 end
