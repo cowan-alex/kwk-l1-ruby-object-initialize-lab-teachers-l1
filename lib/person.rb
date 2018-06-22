@@ -4,3 +4,5 @@ class Person
     @name = persons_name
   end
 end
+
+beyone = Person.new
